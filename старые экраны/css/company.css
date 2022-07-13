@@ -148,3 +148,70 @@
 .mb5{
     margin-bottom: 5px;
 }
+.new_label_profile {
+	margin-left: 20px;
+}
+
+.new_label_profile span {
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 24px;
+
+	color: #0F172A;
+}
+
+.new_label_profile p {
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 18px;
+
+	color: #64748B;
+}
+.profile {
+	display: flex;
+}
+/* Компонент с выбором часового пояса ON*/
+
+/* Компонент с выбором часового пояса ON*/
+
+.time_select {
+	margin-top: 20px;
+	width: 453px;
+}
+
+.form_label {
+	margin-bottom: 8px;
+	
+	font-weight: 400;
+	font-size: 13px;
+	color: #94A3B8;
+	line-height: 12px;
+}
+
+.form-select {
+	border-radius: 24px;
+	font-size: 15px;
+	/* background-image: url("../Icons/check_time_icon.svg"); */
+	background-size: 16px 20px;
+    background-color: #F8FAFC;
+}
+
+/* Компонент с выбором часового пояса ON*/
+
+.time_select_off {
+	opacity: .5;
+}
+
+.form-select-off {
+	color: #94A3B8;
+}
+
+.off {
+	background-image: none;
+}
+
+.btn_bottom {
+    margin-top: 167px;
+}
+
+.bg-light-1  {background-color: #FFFFFF;}
